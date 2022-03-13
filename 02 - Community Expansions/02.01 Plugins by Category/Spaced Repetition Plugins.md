@@ -27,6 +27,7 @@ Here you will find plugins which are explicitly developed with the [[Spaced repe
 - [[ObsidianAnkiSync|Obsidian Anki Sync]] is similar to Obsidian to Anki but uses a different and more powerful markup based syntax for making flash cards.
 - [[flashcards-obsidian|Flashcards]] also integrates with Anki, and has a nice wiki. Flashcards is slightly less customizable and only allows for the addition of one note's worth of cards at a time.
 - [[obsidian-ankibridge|AnkiBridge]] started as a fork of Flashcards but diverged and now has a lot of other features worth checking out.
+- [[obsidianki4|obsidianki 4]] Anki add-on that imports files from Obsidian into Anki. Each file in Obsidianki will be converted to a single note in Anki, preserving the wiki-links. Not currently in active development.
 
 #### Other third-party tools
 - [[mochi-cards-exporter|Mochi Cards Exporter]] exports markdown notes to [Mochi flashcards](https://mochi.cards/). Cards are designated via tags.
